@@ -1,5 +1,6 @@
 #include "slist.hpp"
 #include <iostream>
+#include <algorithm>
 int main() {
         // Create a linked list
     slist<int> myList;
@@ -24,6 +25,9 @@ int main() {
     myList.display();
     myList.reverse();
     myList.display();
+
+    myList.display();
+
     
 
     return 0;
