@@ -1,0 +1,2 @@
+C:/mingw64/bin/ar.exe qc libdsa.a CMakeFiles/dsa.dir/bst.cpp.obj CMakeFiles/dsa.dir/tree.cpp.obj
+C:/mingw64/bin/ranlib.exe libdsa.a

@@ -1,0 +1,10 @@
+C:/Users/malef/dev/C++/dsa/build/CMakeFiles/edit_cache.dir
+C:/Users/malef/dev/C++/dsa/build/CMakeFiles/rebuild_cache.dir
+C:/Users/malef/dev/C++/dsa/build/include/CMakeFiles/edit_cache.dir
+C:/Users/malef/dev/C++/dsa/build/include/CMakeFiles/rebuild_cache.dir
+C:/Users/malef/dev/C++/dsa/build/src/CMakeFiles/dsa.dir
+C:/Users/malef/dev/C++/dsa/build/src/CMakeFiles/edit_cache.dir
+C:/Users/malef/dev/C++/dsa/build/src/CMakeFiles/rebuild_cache.dir
+C:/Users/malef/dev/C++/dsa/build/examples/CMakeFiles/main.dir
+C:/Users/malef/dev/C++/dsa/build/examples/CMakeFiles/edit_cache.dir
+C:/Users/malef/dev/C++/dsa/build/examples/CMakeFiles/rebuild_cache.dir
